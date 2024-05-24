@@ -1,0 +1,7 @@
+# Ignorar pasta bin e obj
+**/bin/
+**/obj/
+
+# Ignorar pasta .vs
+**/.vs/
+HotelCreatedEventHandler.Test/
